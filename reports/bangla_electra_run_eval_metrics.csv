@@ -1,0 +1,2 @@
+precision_micro,recall_micro,f1_micro,precision_macro,recall_macro,f1_macro,bully_precision,bully_recall,bully_f1,bully_support,sexual_precision,sexual_recall,sexual_f1,sexual_support,religious_precision,religious_recall,religious_f1,religious_support,threat_precision,threat_recall,threat_f1,threat_support,spam_precision,spam_recall,spam_f1,spam_support
+0.6174282678002125,0.5578492558809409,0.5861286254728878,0.12348565356004251,0.2,0.15269382391590014,0.6174282678002125,1.0,0.7634691195795007,1162,0.0,0.0,0.0,301,0.0,0.0,0.0,255,0.0,0.0,0.0,198,0.0,0.0,0.0,167
