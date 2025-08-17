@@ -1,0 +1,10 @@
+{
+  "model_name": "bangla-electra",
+  "model_path": "monsoon-nlp/bangla-electra",
+  "project_name": "Bangla-ELECTRA-Cyberbullying",
+  "experiment_date": "20250816_162112",
+  "num_folds": 5,
+  "momentum": 0.9,
+  "dropout": 0.1,
+  "max_length": 128
+}

@@ -1,0 +1,51 @@
+{
+  "original_shape": [
+    12546,
+    8
+  ],
+  "cleaned_shape": [
+    12546,
+    6
+  ],
+  "dropped_columns": [
+    "Gender",
+    "Profession"
+  ],
+  "label_columns": [
+    "bully",
+    "sexual",
+    "religious",
+    "threat",
+    "spam"
+  ],
+  "label_distribution": {
+    "bully": {
+      "positive_samples": 8052,
+      "percentage": 64.17981826877093
+    },
+    "sexual": {
+      "positive_samples": 2059,
+      "percentage": 16.41160529252351
+    },
+    "religious": {
+      "positive_samples": 1607,
+      "percentage": 12.808863382751476
+    },
+    "threat": {
+      "positive_samples": 1422,
+      "percentage": 11.33428981348637
+    },
+    "spam": {
+      "positive_samples": 1089,
+      "percentage": 8.680057388809184
+    }
+  },
+  "missing_values": {
+    "comment": 0,
+    "bully": 0,
+    "sexual": 0,
+    "religious": 0,
+    "threat": 0,
+    "spam": 0
+  }
+}
